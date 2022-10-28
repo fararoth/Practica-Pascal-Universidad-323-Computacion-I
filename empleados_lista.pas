@@ -1,6 +1,6 @@
 program listaempleados;
 uses
-  crt;
+crt; {Unidad que proporciona acceso avanzado a la pantalla y teclado}
 
 const
 	total = 1000;
@@ -13,11 +13,11 @@ type
   nombreApellido : string;
   cedula : longint;
   anNac: integer;
-	mesNac: integer;
-	diaNac: integer;
+  mesNac: integer;
+  diaNac: integer;
   sueldo : longint;
-	edad: integer;
-	categoria : integer;
+  edad: integer;
+  categoria : integer;
 end;
  
 var
