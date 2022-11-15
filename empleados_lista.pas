@@ -89,8 +89,8 @@ procedure entradadatos;
 		    	listado[i].categoria:=3;
 		    end;
 		end; {end-case}
-  end;
-end;
+  end; {end-for}
+end; {end-procedure}
  
 procedure ordenadatos;
   begin
