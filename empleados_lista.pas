@@ -1,7 +1,7 @@
 program listaempleados;
 
 uses
-  crt;
+crt; {Para manipular la pantalla}
 
 const
 	total = 1000;
