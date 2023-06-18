@@ -1,6 +1,10 @@
-# pascal-simple-program
+# Programa simple Pascal
 
-Programa para trabajo práctico de la Universidad Nacional Abierta, materia computación I lapso 2022-2
+Programa para trabajo práctico (TP) de la Universidad Nacional Abierta, materia computación I lapso 2022-2
+
+El código de este repositorio fue agregado después de que terminará el lapso por obvias razones.
+
+He adjuntado el PDF original que la universidad publicó, para que así pueda ilustrarse de qué problema resolví y usar mi código de ejemplo.
 
 ## Enunciado del trabajo:
 En la empresa el Central Madeira C.A., el jefe de personal ha venido presentando inconveniente
