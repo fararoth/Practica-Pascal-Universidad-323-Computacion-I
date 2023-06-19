@@ -1,4 +1,4 @@
-# Programa simple Pascal
+# Programa simple en Lenguaje Pascal
 
 Programa para trabajo práctico (TP) de la Universidad Nacional Abierta, materia computación I lapso 2022-2
 
